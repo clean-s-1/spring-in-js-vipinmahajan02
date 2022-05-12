@@ -24,8 +24,4 @@ module.exports=function getStatistics(numbers){
     return obj;
 }
 
-module.export=function StatsAlerter(maxThreshold,alerters){
 
-
-
-}
